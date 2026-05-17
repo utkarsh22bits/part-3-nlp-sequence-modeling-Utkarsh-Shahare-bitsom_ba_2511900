@@ -1,0 +1,16 @@
+# ────────────────────────────────────────────────────────────────────────────
+# requirements.txt
+# Part 3: NLP and Sequence Modeling Mini Project 
+#
+# ────────────────────────────────────────────────────────────────────────────
+
+Requirements
+
+Python Libraries Used
+*pandas
+*numpy
+*matplotlib
+*scikit-learn
+*nltk
+*tensorflow
+*jupyter
